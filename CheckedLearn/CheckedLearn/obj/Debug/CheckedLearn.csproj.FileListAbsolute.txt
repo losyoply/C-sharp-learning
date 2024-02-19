@@ -1,0 +1,7 @@
+C:\Users\losyo\Desktop\C#\CheckedLearn\CheckedLearn\bin\Debug\CheckedLearn.exe.config
+C:\Users\losyo\Desktop\C#\CheckedLearn\CheckedLearn\bin\Debug\CheckedLearn.exe
+C:\Users\losyo\Desktop\C#\CheckedLearn\CheckedLearn\bin\Debug\CheckedLearn.pdb
+C:\Users\losyo\Desktop\C#\CheckedLearn\CheckedLearn\obj\Debug\CheckedLearn.csproj.AssemblyReference.cache
+C:\Users\losyo\Desktop\C#\CheckedLearn\CheckedLearn\obj\Debug\CheckedLearn.csproj.CoreCompileInputs.cache
+C:\Users\losyo\Desktop\C#\CheckedLearn\CheckedLearn\obj\Debug\CheckedLearn.exe
+C:\Users\losyo\Desktop\C#\CheckedLearn\CheckedLearn\obj\Debug\CheckedLearn.pdb

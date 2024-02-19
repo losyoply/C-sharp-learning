@@ -1,0 +1,7 @@
+C:\Users\losyo\Desktop\C#\ActionLearn\ActionLearn\bin\Debug\ActionLearn.exe.config
+C:\Users\losyo\Desktop\C#\ActionLearn\ActionLearn\bin\Debug\ActionLearn.exe
+C:\Users\losyo\Desktop\C#\ActionLearn\ActionLearn\bin\Debug\ActionLearn.pdb
+C:\Users\losyo\Desktop\C#\ActionLearn\ActionLearn\obj\Debug\ActionLearn.csproj.AssemblyReference.cache
+C:\Users\losyo\Desktop\C#\ActionLearn\ActionLearn\obj\Debug\ActionLearn.csproj.CoreCompileInputs.cache
+C:\Users\losyo\Desktop\C#\ActionLearn\ActionLearn\obj\Debug\ActionLearn.exe
+C:\Users\losyo\Desktop\C#\ActionLearn\ActionLearn\obj\Debug\ActionLearn.pdb

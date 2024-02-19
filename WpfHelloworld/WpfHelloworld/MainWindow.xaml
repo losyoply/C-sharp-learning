@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfHelloworld.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfHelloworld"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="ShowHello" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="784"/>
+        <Button x:Name="SayHello" Content="click me&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="496" RenderTransformOrigin="2.489,8.501" Margin="248,0,0,116" Height="158" Click="SayHello_Click"/>
+
+    </Grid>
+</Window>

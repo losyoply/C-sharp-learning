@@ -1,0 +1,16 @@
+C:\Users\losyo\Desktop\C#\DuoTai\bin\Debug\net5.0\DuoTai.exe
+C:\Users\losyo\Desktop\C#\DuoTai\bin\Debug\net5.0\DuoTai.deps.json
+C:\Users\losyo\Desktop\C#\DuoTai\bin\Debug\net5.0\DuoTai.runtimeconfig.json
+C:\Users\losyo\Desktop\C#\DuoTai\bin\Debug\net5.0\DuoTai.runtimeconfig.dev.json
+C:\Users\losyo\Desktop\C#\DuoTai\bin\Debug\net5.0\DuoTai.dll
+C:\Users\losyo\Desktop\C#\DuoTai\bin\Debug\net5.0\ref\DuoTai.dll
+C:\Users\losyo\Desktop\C#\DuoTai\bin\Debug\net5.0\DuoTai.pdb
+C:\Users\losyo\Desktop\C#\DuoTai\obj\Debug\net5.0\DuoTai.csproj.AssemblyReference.cache
+C:\Users\losyo\Desktop\C#\DuoTai\obj\Debug\net5.0\DuoTai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\losyo\Desktop\C#\DuoTai\obj\Debug\net5.0\DuoTai.AssemblyInfoInputs.cache
+C:\Users\losyo\Desktop\C#\DuoTai\obj\Debug\net5.0\DuoTai.AssemblyInfo.cs
+C:\Users\losyo\Desktop\C#\DuoTai\obj\Debug\net5.0\DuoTai.csproj.CoreCompileInputs.cache
+C:\Users\losyo\Desktop\C#\DuoTai\obj\Debug\net5.0\DuoTai.dll
+C:\Users\losyo\Desktop\C#\DuoTai\obj\Debug\net5.0\ref\DuoTai.dll
+C:\Users\losyo\Desktop\C#\DuoTai\obj\Debug\net5.0\DuoTai.pdb
+C:\Users\losyo\Desktop\C#\DuoTai\obj\Debug\net5.0\DuoTai.genruntimeconfig.cache

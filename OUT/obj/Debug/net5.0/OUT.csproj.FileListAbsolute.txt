@@ -1,0 +1,16 @@
+C:\Users\losyo\Desktop\C#\OUT\obj\Debug\net5.0\OUT.csproj.AssemblyReference.cache
+C:\Users\losyo\Desktop\C#\OUT\obj\Debug\net5.0\OUT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\losyo\Desktop\C#\OUT\obj\Debug\net5.0\OUT.AssemblyInfoInputs.cache
+C:\Users\losyo\Desktop\C#\OUT\obj\Debug\net5.0\OUT.AssemblyInfo.cs
+C:\Users\losyo\Desktop\C#\OUT\obj\Debug\net5.0\OUT.csproj.CoreCompileInputs.cache
+C:\Users\losyo\Desktop\C#\OUT\bin\Debug\net5.0\OUT.exe
+C:\Users\losyo\Desktop\C#\OUT\bin\Debug\net5.0\OUT.deps.json
+C:\Users\losyo\Desktop\C#\OUT\bin\Debug\net5.0\OUT.runtimeconfig.json
+C:\Users\losyo\Desktop\C#\OUT\bin\Debug\net5.0\OUT.runtimeconfig.dev.json
+C:\Users\losyo\Desktop\C#\OUT\bin\Debug\net5.0\OUT.dll
+C:\Users\losyo\Desktop\C#\OUT\bin\Debug\net5.0\ref\OUT.dll
+C:\Users\losyo\Desktop\C#\OUT\bin\Debug\net5.0\OUT.pdb
+C:\Users\losyo\Desktop\C#\OUT\obj\Debug\net5.0\OUT.dll
+C:\Users\losyo\Desktop\C#\OUT\obj\Debug\net5.0\ref\OUT.dll
+C:\Users\losyo\Desktop\C#\OUT\obj\Debug\net5.0\OUT.pdb
+C:\Users\losyo\Desktop\C#\OUT\obj\Debug\net5.0\OUT.genruntimeconfig.cache
